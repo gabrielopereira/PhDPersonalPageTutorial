@@ -52,7 +52,16 @@ Go through each item below. If any of them fail, try to solve it a bit before co
 | Hugo is installed | Open a terminal and type `hugo version` — you should see a version number |
 | Git is installed | Open a terminal and type `git --version` — you should see a version number |
 
-If all is good, you're ready for the workshop! Yay!
+**If all is good, you're ready for the workshop! Yay! But there's a bonus below if you want to go the extra mile...**
+
+### Domain name
+If you want to do the very fun thing of finishing the workshop with a fully-ready and working website, you'll want a domain name.
+
+You can buy a domain name for quite cheap, usually from 2-15 EUR a year. 
+
+There are many providers you can use. I recommend [Namecheap](https://www.namecheap.com/). You can type there your name or whatever you want to use as your domain and see what are possible top-level domains you can use (for example .net, .xyz, .com). They'll have different prices.
+
+Feel free to buy it before the workshop, or arrive with some ideas and buy together with us. :)
 
 ---
 

@@ -37,3 +37,5 @@ In: English Literature and Philosophy, with a minor in avoiding my supervisor
 Outside of academia, I am an amateur competitive crossword solver (regional finalist, 2019 and 2022), a reluctant dog owner (the dog's name is Derrida, which I regret), and an enthusiastic but technically mediocre amateur clarinettist.
 
 I take my coffee black, my peer reviews anonymous, and my theoretical frameworks French.
+
+{{< youtube 0RKpf3rK57I >}}
